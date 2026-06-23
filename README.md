@@ -1,4 +1,4 @@
-Hello, I am Samraat and this is where I put all of my passion projects that I am proud of. I mostly make games with the Godot game engine but I also do other projects from time to time. I am currently working on new walk and talk style game where mroe focus is put on the stroy instead of the game, so far it is going well.
+Hello, I am Samraat and this is where I put all of my passion projects that I am proud of. I mostly make games with the Godot game engine but I also do other projects from time to time. I am currently working on new walk and talk style game where more focus is put on the story and enviornment instead of the gameplay, so far it is going well.
 <!--
 **Samraat191/Samraat191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
